@@ -1,0 +1,7 @@
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.MvcApplicationPartsAssemblyInfo.cs
+C:\joao_ti18\dev\Teste\obj\Debug\net6.0\Teste.MvcApplicationPartsAssemblyInfo.cache
